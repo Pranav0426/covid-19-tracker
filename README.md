@@ -1,6 +1,6 @@
 # COVID-19-Tracker
 
-Displays the number of infected,recovered,dead people globally and country wise.
+Displays the number of infected,recovered,dead people due to covid-19 globally and country wise.
 
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
